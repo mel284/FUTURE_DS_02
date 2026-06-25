@@ -41,10 +41,10 @@ This project analyzes a real-world telecom dataset to help a subscription-based 
 ## 📊 Dashboard Preview
 
 ### Page 1 — Churn Overview
-![Churn Overview](screenshots/page1_churn_overview.png)
+![Churn Overview](screenshots/Telco_page1.png)
 
 ### Page 2 — Retention & Risk Analysis
-![Retention Analysis](screenshots/page2_retention_risk.png)
+![Retention Analysis](screenshots/Telco_page2.png)
 
 ---
 
